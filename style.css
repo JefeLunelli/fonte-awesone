@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50rem;
+    margin: 0;
+}
+
+.fa-hashtag, 
+.fa-facebook, 
+.fa-instagram {
+    font-size: 100px;
+    padding: 50px;
+}
+
+.fa-hashtag:hover, 
+.fa-facebook:hover, 
+.fa-instagram:hover {
+    color: grey;
+}
